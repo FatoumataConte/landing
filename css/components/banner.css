@@ -1,0 +1,16 @@
+.banner{
+  background-image: url('../../images/chat1.png');
+  background-size: cover;
+  height: 380px;
+  background-repeat: no-repeat;
+  background-position: bottom;
+}
+
+.banner h1  {
+  margin-top: 0;
+}
+
+.container1 {
+  padding: 103px 46px;
+}
+

@@ -1,0 +1,44 @@
+footer{
+  height: 190px;
+  margin-top: 50px;
+  background-color: #c5997c1f;
+}
+
+ul li {
+  list-style-type: none;
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  margin: 0px 20px;
+}
+
+.fab {
+  font-family: "Font Awesome 5 Brands";
+  font-size: 38px;
+  color: #9e775c;
+  opacity: 0.6;
+}
+
+footer ul {
+  text-align: center;
+  padding-left: 0px;
+  margin: 25px 0;
+}
+
+footer > h4 {
+  padding-top: 20px;
+  margin-bottom: 0;
+  text-align: center;
+  color: #e89156;
+  font-weight: lighter;
+}
+
+footer > p {
+  text-align: center;
+  margin: 0;
+}
+
+.fab:hover {
+  opacity: 1;
+  transition: opacity 1s ease;
+}
